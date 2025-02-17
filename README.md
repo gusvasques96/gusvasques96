@@ -1,5 +1,6 @@
 
 Oi, me chamo Gustavo 👋
+
 Sobre mim
 
 💻 Desenvolvedor Back-end
@@ -16,13 +17,11 @@ Tecnologias e Ferramentas
 NodeJS TypeScript PostgreSQL MySQL MongoDB Jest Git GitHub
 
 Eu estou estudando... 🧩
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+
+C#
+.NET
 
 Entre em contato comigo! 📭
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 https://br.linkedin.com/in/gustavo-vasques
-
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 gvasques.dev@gmail.com
