@@ -24,4 +24,3 @@ C#
 Entre em contato comigo! 📭
 
 https://br.linkedin.com/in/gustavo-vasques
-gvasques.dev@gmail.com
