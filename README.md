@@ -18,8 +18,7 @@ NodeJS TypeScript PostgreSQL MySQL MongoDB Jest Git GitHub
 
 Eu estou estudando... 🧩
 
-C#
-.NET
+Python
 
 Entre em contato comigo! 📭
 
